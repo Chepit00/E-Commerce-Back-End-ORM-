@@ -16,6 +16,9 @@
 
 This repo focuses on building the back end for an e-commerce website using the latest technologies. Using Express.js API to interact with a MYSQL database through Sequalize ORM. By using this repo as a blueprint for an e-commerce platform, you'll have a competitive e-commerce company!
 
+Listed below you'll find the link to the walkthrough video!
+https://drive.google.com/file/d/1WAotr0T_91Zrju5keU1J8Zh9eIqE3ups/view
+
 ## Installation
 
 1.  Clone the Repository from Github.
